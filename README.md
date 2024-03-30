@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=rinoreyns"></h2>
 
 <!--
 **RinoReyns/RinoReyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
